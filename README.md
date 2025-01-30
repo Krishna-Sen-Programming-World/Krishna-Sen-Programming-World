@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krishna-Sen-Programming-World
-- 👀 I’m interested in @web-development @programming
+- 👀 I’m interested in @DSA @CPP @programming
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can me via my email krishnasentui@gmail.com
 [![@krishnasen's Holopin board](https://holopin.me/krishnasen)](https://holopin.io/@krishnasen)
